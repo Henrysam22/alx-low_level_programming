@@ -1,1 +1,1 @@
-This repo holds some c programming language scriipts
+The journey to c programming
