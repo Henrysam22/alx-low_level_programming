@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * print_line -prints line
- * @a: parameter
+ * print_line - prints line
+ * @n: parameter
  */
 
 void print_line(int n)
