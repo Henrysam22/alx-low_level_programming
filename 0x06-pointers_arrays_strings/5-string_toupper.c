@@ -3,13 +3,14 @@
 /**
  * string_toupper - changes all lowercase letters to uppercase
  * @word: pointer to the string
- * @Return: pointer to uppercase string
+ * Return: pointer to uppercase string
  */
 
 char *string_toupper(char *word)
 {
 	int length;
-	lenght = 0;
+
+	length = 0;
 
 	while (word[length] != '\0')
 	{
