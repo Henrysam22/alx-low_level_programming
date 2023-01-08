@@ -32,7 +32,9 @@ char *_strstr(char *haystack, char *needle)
 				break;
 			} /* if matched throughout, return haystack */
 			if (needle[j] == '\0')
+			{
 				return (haystack + 1);
+			}
 		}
 		i++;
 	}
