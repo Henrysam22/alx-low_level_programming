@@ -2,7 +2,7 @@
 /**
  * _strspn - return length of string that matches values consistently
  * @s: string to search
- * @acceot: target matches
+ * @accept: target matches
  * Return: number of bytes consecutively matched
  */
 
