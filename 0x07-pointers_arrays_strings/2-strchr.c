@@ -3,8 +3,8 @@
 
 /**
  * _strchr - locate 1st occurrence of char in string and retunrs pointer there
- @s: string to search
- @c: target character
+ * @s: string to search
+ * @c: target character
  * Return: pointer to that character in string
  */
 
