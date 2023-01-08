@@ -8,7 +8,7 @@
  * Return: pointer to index of string at first occurrence
  */
 
-char *strpbrk(char *s, char *accept)
+char *_strpbrk(char *s, char *accept)
 {
 	int x = 0, y;
 
